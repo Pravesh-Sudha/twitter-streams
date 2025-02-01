@@ -48,6 +48,8 @@ Obtain API keys from [Twitter Developer Portal](https://developer.twitter.com/) 
 ```python
 BEARER_TOKEN = "your_twitter_bearer_token"
 ```
+![twiiter-token](https://github.com/user-attachments/assets/1f800030-0e29-4139-96cd-2129c8939ac6)
+
 
 ### 4️⃣ Create Kafka Topic
 ```bash
