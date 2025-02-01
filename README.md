@@ -16,7 +16,7 @@ This project streams real-time Twitter data using the **Twitter API**, processes
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Pravesh-Sudha/twitter-streams.git
-cd twitter-data-streaming
+cd twitter-streams/
 ```
 
 ### 2️⃣ Start Docker Containers
